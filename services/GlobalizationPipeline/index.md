@@ -23,6 +23,7 @@ You can use the {{site.data.keyword.GlobalizationPipeline_short}} service with a
 From the {{site.data.keyword.GlobalizationPipeline_short}} interface, you can quickly translate your {{site.data.keyword.Bluemix_notm}} apps. For information about translating your apps by using the RESTful API, see [API Reference](https://gp-rest.ng.bluemix.net/translate/swagger/index.html){: new_window}. 
 
 
+
 ## Creating a bundle
 {: #globalizationpipeline_creatingbundles}
 
